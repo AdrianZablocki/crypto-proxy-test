@@ -1,3 +1,5 @@
+
+
 const CryptoPage = ({ searchParams }) => {
   return (
     <div>crypto page</div>
