@@ -17,7 +17,7 @@ const nextConfig = {
           // Allows for specific methods accepted
           {
             key: "Access-Control-Allow-Methods",
-            value: "GET, POST, PUT, DELETE, OPTIONS",
+            value: "GET,OPTIONS,PATCH,DELETE,POST,PUT",
           },
           // Allows for specific headers accepted (These are a few standard ones)
           {
